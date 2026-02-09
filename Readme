@@ -1,0 +1,18 @@
+## Flu Vaccine Uptake Prediction
+
+This project is a learning-focused analysis based on a public DrivenData competition dataset.
+The goal is to understand how demographic, behavioral, and opinion-based factors influence
+H1N1 and seasonal flu vaccination uptake.
+
+### Approach
+- Data cleaning and preprocessing using pipelines
+- Handling missing values and categorical encoding
+- Baseline modeling with Logistic Regression
+- Advanced modeling with HistGradientBoostingClassifier
+- Model evaluation using ROC-AUC
+
+### Tools
+Python, Pandas, scikit-learn
+
+### Note
+This project was completed strictly for educational purposes.
